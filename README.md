@@ -1,5 +1,7 @@
 
-<a href="https://app.daily.dev/jtavarezr"><img src="https://api.daily.dev/devcards/v2/RzM1tMx0Ju4NZLXqxYjPH.png?r=6q1&type=wide" width="652" alt="Jonathan's Dev Card"/></a>
+
+<a href="https://app.daily.dev/jtavarezr"><img src="./devcard.png" width="356" alt="Jonathan's Dev Card"/></a>
+![jtavarezr's Stats](https://github-readme-stats.vercel.app/api?username=jtavarezr&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 
 <!--<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>-->
