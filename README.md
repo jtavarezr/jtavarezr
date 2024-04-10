@@ -1,13 +1,45 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jtavarezr&label=visitors%20&color=129e00&style=plastic" alt="jtavarezr" /> </p>
 
+
+<h2> Hello there, I'm Jonathan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+
+
+[
+![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://jonathan.tavarez.dev/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jtavarezr) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#) [![YouTube](https://img.shields.io/badge/YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/#) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/#)
+## 👨‍💻 About Me!
+-  I am a software engineer experienced in designing and building distributed scalable systems using React, Node.js, Python, Java, C# and others. My interest lies in microservices and software architecture. I am also an active contributor to the open-source world, where I enjoy collaborating and sharing knowledge.  
+My passion for problem-solving and creating efficient solutions has led me to work on various projects, where I apply my skills to develop robust and scalable software.
 
 <a href="https://app.daily.dev/jtavarezr"><img src="./devcard.png" width="356" alt="Jonathan's Dev Card"/></a>
 ![jtavarezr's Stats](https://github-readme-stats.vercel.app/api?username=jtavarezr&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 
 <!--<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>-->
+
+## 🥷  Professional Skills
+
+-  **BackEnd:**  Java, Python, Node.js (ExpressJS, NestJS)
+-  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins, Redis
+-  **FrontEnd:**  React, NextJS
+-  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
+
+## ⭐️ Communities 
+
+- CodePath Student
+- Perschola Student
+- TampaDev
+- Microsoft Imaginer 
+- Google Developer Student Clubs 
+
+
+- 
+-  
 ---
-### 🛠 &nbsp;About me :
+## 📈 Stats
+
 <!--
+### 🛠 &nbsp;Stats 
+
 **jtavarezr/jtavarezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,7 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 💼 I am a software engineer with experience in developing applications using technologies such as AWS, Java, JavaScript, and TypeScript. My passion for problem-solving and creating efficient solutions has led me to work on various projects, where I apply my skills to develop robust and scalable software.
 
 <!--- 💬 With a focus on cloud development using AWS, I have been involved in creating solid architectures that enable the efficient deployment and management of applications. My experience in languages like Java, JavaScript, and TypeScript has allowed me to work across different layers of applications, from the back-end to the front-end, ensuring a smooth and efficient user experience.
