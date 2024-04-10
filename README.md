@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<a href="https://app.daily.dev/jtavarezr"><img src="https://api.daily.dev/devcards/v2/RzM1tMx0Ju4NZLXqxYjPH.png?r=6q1&type=wide" width="652" alt="Jonathan's Dev Card"/></a>
 
 
 <!--<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>-->
@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 - 🚀 I’m looking to collaborate and continue growing as a professional and taking on new challenges in the world of software development!
 -->
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtavarezr)](https://github.com/jtavarezr/github-readme-stats)
+
+
+___________________________
+<a href="https://app.daily.dev/jtavarezr"><img src="https://api.daily.dev/devcards/v2/RzM1tMx0Ju4NZLXqxYjPH.png?r=x5z" width="400" alt="jtavarez's Dev Card"/></a>
+  </div>
+___________________________
+
 ### 🛠 &nbsp;Languages and Tools :
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
