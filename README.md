@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 -->
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtavarezr)](https://github.com/jtavarezr/github-readme-stats)
-
+![jtavarezr's Stats](https://github-readme-stats.vercel.app/api?username=jtavarezr&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![jtavarezr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtavarezr&theme=dark&hide_border=false)
+![jtavarezr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jtavarezr&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ___________________________
-<a href="https://app.daily.dev/jtavarezr"><img src="https://api.daily.dev/devcards/v2/RzM1tMx0Ju4NZLXqxYjPH.png?r=x5z" width="400" alt="jtavarez's Dev Card"/></a>
-  </div>
 ___________________________
 
 ### 🛠 &nbsp;Languages and Tools :
